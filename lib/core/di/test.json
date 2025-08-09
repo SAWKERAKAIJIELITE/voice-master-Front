@@ -1,0 +1,1106 @@
+{
+  "data": [
+    {
+      "id": 58,
+      "parent_id": 12,
+      "parent_name": "Demolition and deportation",
+      "level": 2,
+      "status": "available",
+      "name": "new service category",
+      "description": "new service category",
+      "icon_url": "https://moalem24.com/storage/service_categories/305/Screenshot-from-2024-10-24-14-06-35.png",
+      "children": []
+    },
+    {
+      "id": 57,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Services not mentioned",
+      "description": "All services not mentioned",
+      "icon_url": "https://moalem24.com/storage/service_categories/282/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 56,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Concrete normalization",
+      "description": "All concrete normalization services",
+      "icon_url": "https://moalem24.com/storage/service_categories/281/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 55,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Network Systems",
+      "description": "All Network Systems Services",
+      "icon_url": "https://moalem24.com/storage/service_categories/280/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 54,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Building insulation",
+      "description": "All building insulation services",
+      "icon_url": "https://moalem24.com/storage/service_categories/279/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 53,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Underfloor heating",
+      "description": "All underfloor heating services",
+      "icon_url": "https://moalem24.com/storage/service_categories/278/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 52,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "BBQ fireplace",
+      "description": "All BBQ fireplace services",
+      "icon_url": "https://moalem24.com/storage/service_categories/277/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 51,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Umbrellas and parasols",
+      "description": "All umbrella and parasol services",
+      "icon_url": "https://moalem24.com/storage/service_categories/276/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 50,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Pool filtration",
+      "description": "All pool filtration services",
+      "icon_url": "https://moalem24.com/storage/service_categories/275/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 49,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Garden coordination",
+      "description": "All garden coordination services",
+      "icon_url": "https://moalem24.com/storage/service_categories/274/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 48,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Stone cladding",
+      "description": "All stone cladding services",
+      "icon_url": "https://moalem24.com/storage/service_categories/273/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 47,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Surveillance and protection systems",
+      "description": "All surveillance and protection services",
+      "icon_url": "https://moalem24.com/storage/service_categories/272/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 46,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Air conditioning and refrigeration",
+      "description": "All air conditioning and refrigeration services",
+      "icon_url": "https://moalem24.com/storage/service_categories/271/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 45,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Central Heating",
+      "description": "All Central Heating Services",
+      "icon_url": "https://moalem24.com/storage/service_categories/270/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 44,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Tile polishing and shining",
+      "description": "All tile polishing and shining services",
+      "icon_url": "https://moalem24.com/storage/service_categories/269/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 43,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Aluminum carpenter",
+      "description": "All aluminum carpenter services",
+      "icon_url": "https://moalem24.com/storage/service_categories/268/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 42,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Painting",
+      "description": "All painting services",
+      "icon_url": "https://moalem24.com/storage/service_categories/267/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 41,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Gypsum board",
+      "description": "All gypsum board services",
+      "icon_url": "https://moalem24.com/storage/service_categories/266/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 40,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Carpenter",
+      "description": "All carpentry services",
+      "icon_url": "https://moalem24.com/storage/service_categories/265/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 39,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Tiles",
+      "description": "All tiling and marble services",
+      "icon_url": "https://moalem24.com/storage/service_categories/264/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 38,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Plastering or plastering",
+      "description": "All plastering or plastering services",
+      "icon_url": "https://moalem24.com/storage/service_categories/263/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 37,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Electrical Extensions",
+      "description": "All Electrical Extensions Services",
+      "icon_url": "https://moalem24.com/storage/service_categories/262/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 36,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Sanitary extensions",
+      "description": "All sanitary extension services",
+      "icon_url": "https://moalem24.com/storage/service_categories/261/اصلاح-التسريبات.png",
+      "children": []
+    },
+    {
+      "id": 35,
+      "parent_id": 6,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Maintenance of something else not mentioned",
+      "description": "All maintenance services of something else not mentioned",
+      "icon_url": "https://moalem24.com/storage/service_categories/260/نجار-ابواب.png",
+      "children": []
+    },
+    {
+      "id": 34,
+      "parent_id": 6,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Floor and countertop polishing maintenance",
+      "description": "All floor and countertop polishing maintenance services",
+      "icon_url": "https://moalem24.com/storage/service_categories/259/تنظيف-صالات-و-شركات.png",
+      "children": []
+    },
+    {
+      "id": 33,
+      "parent_id": 6,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Tile, ceramic and marble maintenance",
+      "description": "All tile, ceramic and marble maintenance services",
+      "icon_url": "https://moalem24.com/storage/service_categories/258/تنظيف--نوافذ-داخلية.png",
+      "children": []
+    },
+    {
+      "id": 32,
+      "parent_id": 6,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Glass and aluminum maintenance",
+      "description": "All glass and aluminum maintenance services",
+      "icon_url": "https://moalem24.com/storage/service_categories/257/تنظيف--نوافذ-داخلية.png",
+      "children": []
+    },
+    {
+      "id": 31,
+      "parent_id": 6,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Home Appliance Maintenance",
+      "description": "All Home Appliance Maintenance Services",
+      "icon_url": "https://moalem24.com/storage/service_categories/256/تركيب-و-صيانة-غسالات.png",
+      "children": []
+    },
+    {
+      "id": 30,
+      "parent_id": 6,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Paint Maintenance",
+      "description": "All Paint Maintenance Services",
+      "icon_url": "https://moalem24.com/storage/service_categories/255/معلم-تمديد-صحية-1.png",
+      "children": []
+    },
+    {
+      "id": 29,
+      "parent_id": 6,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Electrical maintenance",
+      "description": "All electrical services",
+      "icon_url": "https://moalem24.com/storage/service_categories/254/معلم-تمديد-صحية-1.png",
+      "children": []
+    },
+    {
+      "id": 28,
+      "parent_id": 6,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Sanitary extensions maintenance",
+      "description": "All sanitary extensions services",
+      "icon_url": "https://moalem24.com/storage/service_categories/253/معلم-تمديد-صحية-1.png",
+      "children": []
+    },
+    {
+      "id": 27,
+      "parent_id": 6,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Furniture maintenance",
+      "description": "All furniture maintenance services",
+      "icon_url": "https://moalem24.com/storage/service_categories/252/نجار-ابواب.png",
+      "children": []
+    },
+    {
+      "id": 26,
+      "parent_id": 23,
+      "parent_name": "Electrical tools",
+      "level": 1,
+      "status": "available",
+      "name": "Mobile phones",
+      "description": "Description En",
+      "icon_url": "https://moalem24.com/storage/service_categories/210/Mobile-phones.jpg",
+      "children": []
+    },
+    {
+      "id": 25,
+      "parent_id": 23,
+      "parent_name": "Electrical tools",
+      "level": 1,
+      "status": "available",
+      "name": "Laptops",
+      "description": "Description En",
+      "icon_url": "https://moalem24.com/storage/service_categories/209/Laptops.jpg",
+      "children": []
+    },
+    {
+      "id": 24,
+      "parent_id": 23,
+      "parent_name": "Electrical tools",
+      "level": 1,
+      "status": "available",
+      "name": "Home",
+      "description": "test",
+      "icon_url": "https://moalem24.com/storage/service_categories/208/Home.jpg",
+      "children": []
+    },
+    {
+      "id": 23,
+      "parent_id": null,
+      "parent_name": null,
+      "level": 0,
+      "status": "available",
+      "name": "Electrical tools",
+      "description": "All electrical appliances",
+      "icon_url": "https://moalem24.com/storage/service_categories/207/electricity.jpg",
+      "children": [
+        {
+          "id": 24,
+          "parent_id": 23,
+          "parent_name": "Electrical tools",
+          "level": 1,
+          "status": "available",
+          "name": "Home",
+          "description": "test",
+          "icon_url": "https://moalem24.com/storage/service_categories/208/Home.jpg"
+        },
+        {
+          "id": 25,
+          "parent_id": 23,
+          "parent_name": "Electrical tools",
+          "level": 1,
+          "status": "available",
+          "name": "Laptops",
+          "description": "Description En",
+          "icon_url": "https://moalem24.com/storage/service_categories/209/Laptops.jpg"
+        },
+        {
+          "id": 26,
+          "parent_id": 23,
+          "parent_name": "Electrical tools",
+          "level": 1,
+          "status": "available",
+          "name": "Mobile phones",
+          "description": "Description En",
+          "icon_url": "https://moalem24.com/storage/service_categories/210/Mobile-phones.jpg"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "parent_id": 20,
+      "parent_name": "Building decoration",
+      "level": 1,
+      "status": "available",
+      "name": "industrial",
+      "description": "All luxury types",
+      "icon_url": "https://moalem24.com/storage/service_categories/189/industrial.jpg",
+      "children": []
+    },
+    {
+      "id": 21,
+      "parent_id": 20,
+      "parent_name": "Building decoration",
+      "level": 1,
+      "status": "available",
+      "name": "foreign",
+      "description": "All luxury types",
+      "icon_url": "https://moalem24.com/storage/service_categories/188/foreign.jpg",
+      "children": []
+    },
+    {
+      "id": 20,
+      "parent_id": null,
+      "parent_name": null,
+      "level": 0,
+      "status": "available",
+      "name": "Building decoration",
+      "description": "All you have to do is trust us to have the most beautiful decor for your home.",
+      "icon_url": "https://moalem24.com/storage/service_categories/187/Building-decoration.jpg",
+      "children": [
+        {
+          "id": 21,
+          "parent_id": 20,
+          "parent_name": "Building decoration",
+          "level": 1,
+          "status": "available",
+          "name": "foreign",
+          "description": "All luxury types",
+          "icon_url": "https://moalem24.com/storage/service_categories/188/foreign.jpg"
+        },
+        {
+          "id": 22,
+          "parent_id": 20,
+          "parent_name": "Building decoration",
+          "level": 1,
+          "status": "available",
+          "name": "industrial",
+          "description": "All luxury types",
+          "icon_url": "https://moalem24.com/storage/service_categories/189/industrial.jpg"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Routine Maintenance",
+      "description": "Routine Maintenance",
+      "icon_url": "https://moalem24.com/storage/service_categories/47/gear-maintenance-service-svgrepo-com.svg",
+      "children": []
+    },
+    {
+      "id": 17,
+      "parent_id": 2,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "General Maintenance",
+      "description": "General Maintenance",
+      "icon_url": "https://moalem24.com/storage/service_categories/46/general-office-repair-2-svgrepo-com.svg",
+      "children": []
+    },
+    {
+      "id": 16,
+      "parent_id": 6,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Men's Haircutting",
+      "description": "Men's Haircutting",
+      "icon_url": "https://moalem24.com/storage/service_categories/45/hairdresser-with-scissors-cutting-the-hair-to-a-client-sitting-in-front-of-him-svgrepo-com.svg",
+      "children": []
+    },
+    {
+      "id": 15,
+      "parent_id": 6,
+      "parent_name": "Building maintenance",
+      "level": 1,
+      "status": "available",
+      "name": "Women's Haircutting",
+      "description": "Women's Haircutting",
+      "icon_url": "https://moalem24.com/storage/service_categories/44/woman-hair-hairstyle-svgrepo-com.svg",
+      "children": []
+    },
+    {
+      "id": 14,
+      "parent_id": 5,
+      "parent_name": "Cleaning",
+      "level": 1,
+      "status": "available",
+      "name": "General Cleaning",
+      "description": "General Cleaning",
+      "icon_url": "https://moalem24.com/storage/service_categories/43/cleaning-svgrepo-com.svg",
+      "children": []
+    },
+    {
+      "id": 13,
+      "parent_id": 5,
+      "parent_name": "Cleaning",
+      "level": 1,
+      "status": "available",
+      "name": "Apartment Cleaning",
+      "description": "Apartment Cleaning",
+      "icon_url": "https://moalem24.com/storage/service_categories/42/cleaning-mop-svgrepo-com.svg",
+      "children": []
+    },
+    {
+      "id": 11,
+      "parent_id": 1,
+      "parent_name": "Buildings  XL",
+      "level": 1,
+      "status": "available",
+      "name": "Driver Buk",
+      "description": "Driver Buk",
+      "icon_url": "https://moalem24.com/storage/service_categories/168/images.jpg",
+      "children": []
+    },
+    {
+      "id": 10,
+      "parent_id": 1,
+      "parent_name": "Buildings  XL",
+      "level": 1,
+      "status": "available",
+      "name": "truck driver",
+      "description": "truck driver",
+      "icon_url": "https://moalem24.com/storage/service_categories/167/2779380de9a2ba54df15d8a8b416a2d0.jpg",
+      "children": []
+    },
+    {
+      "id": 9,
+      "parent_id": 1,
+      "parent_name": "Buildings  XL",
+      "level": 1,
+      "status": "available",
+      "name": "excavator driver",
+      "description": "excavator driver",
+      "icon_url": "https://moalem24.com/storage/service_categories/166/0cd0357c611e0160ce23e54e3927cd03.jpg",
+      "children": []
+    },
+    {
+      "id": 8,
+      "parent_id": 1,
+      "parent_name": "Buildings  XL",
+      "level": 1,
+      "status": "available",
+      "name": "Truck Driver",
+      "description": "Truck Driver",
+      "icon_url": "https://moalem24.com/storage/service_categories/164/65eb158611372437fd58f0e88f19fc38.jpg",
+      "children": []
+    },
+    {
+      "id": 7,
+      "parent_id": 1,
+      "parent_name": "Buildings  XL",
+      "level": 1,
+      "status": "available",
+      "name": "Building contractor",
+      "description": "all Building contractor serves",
+      "icon_url": "https://moalem24.com/storage/service_categories/163/a5e3b6a09886fbc960600a4a183ed5b6.jpg",
+      "children": []
+    },
+    {
+      "id": 6,
+      "parent_id": null,
+      "parent_name": null,
+      "level": 0,
+      "status": "available",
+      "name": "Building maintenance",
+      "description": "All Building maintenance serves",
+      "icon_url": "https://moalem24.com/storage/service_categories/156/24ecb930b896ebd8a00fc75cae0787af.jpg",
+      "children": [
+        {
+          "id": 15,
+          "parent_id": 6,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Women's Haircutting",
+          "description": "Women's Haircutting",
+          "icon_url": "https://moalem24.com/storage/service_categories/44/woman-hair-hairstyle-svgrepo-com.svg"
+        },
+        {
+          "id": 16,
+          "parent_id": 6,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Men's Haircutting",
+          "description": "Men's Haircutting",
+          "icon_url": "https://moalem24.com/storage/service_categories/45/hairdresser-with-scissors-cutting-the-hair-to-a-client-sitting-in-front-of-him-svgrepo-com.svg"
+        },
+        {
+          "id": 27,
+          "parent_id": 6,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Furniture maintenance",
+          "description": "All furniture maintenance services",
+          "icon_url": "https://moalem24.com/storage/service_categories/252/نجار-ابواب.png"
+        },
+        {
+          "id": 28,
+          "parent_id": 6,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Sanitary extensions maintenance",
+          "description": "All sanitary extensions services",
+          "icon_url": "https://moalem24.com/storage/service_categories/253/معلم-تمديد-صحية-1.png"
+        },
+        {
+          "id": 29,
+          "parent_id": 6,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Electrical maintenance",
+          "description": "All electrical services",
+          "icon_url": "https://moalem24.com/storage/service_categories/254/معلم-تمديد-صحية-1.png"
+        },
+        {
+          "id": 30,
+          "parent_id": 6,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Paint Maintenance",
+          "description": "All Paint Maintenance Services",
+          "icon_url": "https://moalem24.com/storage/service_categories/255/معلم-تمديد-صحية-1.png"
+        },
+        {
+          "id": 31,
+          "parent_id": 6,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Home Appliance Maintenance",
+          "description": "All Home Appliance Maintenance Services",
+          "icon_url": "https://moalem24.com/storage/service_categories/256/تركيب-و-صيانة-غسالات.png"
+        },
+        {
+          "id": 32,
+          "parent_id": 6,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Glass and aluminum maintenance",
+          "description": "All glass and aluminum maintenance services",
+          "icon_url": "https://moalem24.com/storage/service_categories/257/تنظيف--نوافذ-داخلية.png"
+        },
+        {
+          "id": 33,
+          "parent_id": 6,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Tile, ceramic and marble maintenance",
+          "description": "All tile, ceramic and marble maintenance services",
+          "icon_url": "https://moalem24.com/storage/service_categories/258/تنظيف--نوافذ-داخلية.png"
+        },
+        {
+          "id": 34,
+          "parent_id": 6,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Floor and countertop polishing maintenance",
+          "description": "All floor and countertop polishing maintenance services",
+          "icon_url": "https://moalem24.com/storage/service_categories/259/تنظيف-صالات-و-شركات.png"
+        },
+        {
+          "id": 35,
+          "parent_id": 6,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Maintenance of something else not mentioned",
+          "description": "All maintenance services of something else not mentioned",
+          "icon_url": "https://moalem24.com/storage/service_categories/260/نجار-ابواب.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "parent_id": null,
+      "parent_name": null,
+      "level": 0,
+      "status": "available",
+      "name": "Cleaning",
+      "description": "All cleaning services",
+      "icon_url": "https://moalem24.com/storage/service_categories/32/spray-cleaner-svgrepo-com.svg",
+      "children": [
+        {
+          "id": 13,
+          "parent_id": 5,
+          "parent_name": "Cleaning",
+          "level": 1,
+          "status": "available",
+          "name": "Apartment Cleaning",
+          "description": "Apartment Cleaning",
+          "icon_url": "https://moalem24.com/storage/service_categories/42/cleaning-mop-svgrepo-com.svg"
+        },
+        {
+          "id": 14,
+          "parent_id": 5,
+          "parent_name": "Cleaning",
+          "level": 1,
+          "status": "available",
+          "name": "General Cleaning",
+          "description": "General Cleaning",
+          "icon_url": "https://moalem24.com/storage/service_categories/43/cleaning-svgrepo-com.svg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "parent_id": null,
+      "parent_name": null,
+      "level": 0,
+      "status": "available",
+      "name": "Transport",
+      "description": "All Transport services",
+      "icon_url": "https://moalem24.com/storage/service_categories/153/d817520dd2625db12095c1d30f0c98ab.jpg",
+      "children": []
+    },
+    {
+      "id": 3,
+      "parent_id": null,
+      "parent_name": null,
+      "level": 0,
+      "status": "available",
+      "name": "Car serves",
+      "description": "All Car serves services",
+      "icon_url": "https://moalem24.com/storage/service_categories/154/89bc2f965308535e3b6442edb16e5df4.jpg",
+      "children": []
+    },
+    {
+      "id": 2,
+      "parent_id": null,
+      "parent_name": null,
+      "level": 0,
+      "status": "available",
+      "name": "Building maintenance",
+      "description": "All Building maintenance services",
+      "icon_url": "https://moalem24.com/storage/service_categories/161/24ecb930b896ebd8a00fc75cae0787af.jpg",
+      "children": [
+        {
+          "id": 17,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "General Maintenance",
+          "description": "General Maintenance",
+          "icon_url": "https://moalem24.com/storage/service_categories/46/general-office-repair-2-svgrepo-com.svg"
+        },
+        {
+          "id": 18,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Routine Maintenance",
+          "description": "Routine Maintenance",
+          "icon_url": "https://moalem24.com/storage/service_categories/47/gear-maintenance-service-svgrepo-com.svg"
+        },
+        {
+          "id": 36,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Sanitary extensions",
+          "description": "All sanitary extension services",
+          "icon_url": "https://moalem24.com/storage/service_categories/261/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 37,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Electrical Extensions",
+          "description": "All Electrical Extensions Services",
+          "icon_url": "https://moalem24.com/storage/service_categories/262/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 38,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Plastering or plastering",
+          "description": "All plastering or plastering services",
+          "icon_url": "https://moalem24.com/storage/service_categories/263/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 39,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Tiles",
+          "description": "All tiling and marble services",
+          "icon_url": "https://moalem24.com/storage/service_categories/264/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 40,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Carpenter",
+          "description": "All carpentry services",
+          "icon_url": "https://moalem24.com/storage/service_categories/265/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 41,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Gypsum board",
+          "description": "All gypsum board services",
+          "icon_url": "https://moalem24.com/storage/service_categories/266/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 42,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Painting",
+          "description": "All painting services",
+          "icon_url": "https://moalem24.com/storage/service_categories/267/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 43,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Aluminum carpenter",
+          "description": "All aluminum carpenter services",
+          "icon_url": "https://moalem24.com/storage/service_categories/268/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 44,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Tile polishing and shining",
+          "description": "All tile polishing and shining services",
+          "icon_url": "https://moalem24.com/storage/service_categories/269/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 45,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Central Heating",
+          "description": "All Central Heating Services",
+          "icon_url": "https://moalem24.com/storage/service_categories/270/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 46,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Air conditioning and refrigeration",
+          "description": "All air conditioning and refrigeration services",
+          "icon_url": "https://moalem24.com/storage/service_categories/271/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 47,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Surveillance and protection systems",
+          "description": "All surveillance and protection services",
+          "icon_url": "https://moalem24.com/storage/service_categories/272/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 48,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Stone cladding",
+          "description": "All stone cladding services",
+          "icon_url": "https://moalem24.com/storage/service_categories/273/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 49,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Garden coordination",
+          "description": "All garden coordination services",
+          "icon_url": "https://moalem24.com/storage/service_categories/274/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 50,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Pool filtration",
+          "description": "All pool filtration services",
+          "icon_url": "https://moalem24.com/storage/service_categories/275/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 51,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Umbrellas and parasols",
+          "description": "All umbrella and parasol services",
+          "icon_url": "https://moalem24.com/storage/service_categories/276/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 52,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "BBQ fireplace",
+          "description": "All BBQ fireplace services",
+          "icon_url": "https://moalem24.com/storage/service_categories/277/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 53,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Underfloor heating",
+          "description": "All underfloor heating services",
+          "icon_url": "https://moalem24.com/storage/service_categories/278/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 54,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Building insulation",
+          "description": "All building insulation services",
+          "icon_url": "https://moalem24.com/storage/service_categories/279/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 55,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Network Systems",
+          "description": "All Network Systems Services",
+          "icon_url": "https://moalem24.com/storage/service_categories/280/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 56,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Concrete normalization",
+          "description": "All concrete normalization services",
+          "icon_url": "https://moalem24.com/storage/service_categories/281/اصلاح-التسريبات.png"
+        },
+        {
+          "id": 57,
+          "parent_id": 2,
+          "parent_name": "Building maintenance",
+          "level": 1,
+          "status": "available",
+          "name": "Services not mentioned",
+          "description": "All services not mentioned",
+          "icon_url": "https://moalem24.com/storage/service_categories/282/اصلاح-التسريبات.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "parent_id": null,
+      "parent_name": null,
+      "level": 0,
+      "status": "available",
+      "name": "Buildings  XL",
+      "description": "All Buildings services",
+      "icon_url": "https://moalem24.com/storage/service_categories/155/d4f1741ccaef2b58bfab2c087d8c2b4a.jpg",
+      "children": [
+        {
+          "id": 7,
+          "parent_id": 1,
+          "parent_name": "Buildings  XL",
+          "level": 1,
+          "status": "available",
+          "name": "Building contractor",
+          "description": "all Building contractor serves",
+          "icon_url": "https://moalem24.com/storage/service_categories/163/a5e3b6a09886fbc960600a4a183ed5b6.jpg"
+        },
+        {
+          "id": 8,
+          "parent_id": 1,
+          "parent_name": "Buildings  XL",
+          "level": 1,
+          "status": "available",
+          "name": "Truck Driver",
+          "description": "Truck Driver",
+          "icon_url": "https://moalem24.com/storage/service_categories/164/65eb158611372437fd58f0e88f19fc38.jpg"
+        },
+        {
+          "id": 9,
+          "parent_id": 1,
+          "parent_name": "Buildings  XL",
+          "level": 1,
+          "status": "available",
+          "name": "excavator driver",
+          "description": "excavator driver",
+          "icon_url": "https://moalem24.com/storage/service_categories/166/0cd0357c611e0160ce23e54e3927cd03.jpg"
+        },
+        {
+          "id": 10,
+          "parent_id": 1,
+          "parent_name": "Buildings  XL",
+          "level": 1,
+          "status": "available",
+          "name": "truck driver",
+          "description": "truck driver",
+          "icon_url": "https://moalem24.com/storage/service_categories/167/2779380de9a2ba54df15d8a8b416a2d0.jpg"
+        },
+        {
+          "id": 11,
+          "parent_id": 1,
+          "parent_name": "Buildings  XL",
+          "level": 1,
+          "status": "available",
+          "name": "Driver Buk",
+          "description": "Driver Buk",
+          "icon_url": "https://moalem24.com/storage/service_categories/168/images.jpg"
+        },
+        {
+          "id": 12,
+          "parent_id": 1,
+          "parent_name": "Buildings  XL",
+          "level": 1,
+          "status": "available",
+          "name": "Demolition and deportation",
+          "description": "Demolition and deportation",
+          "icon_url": "https://moalem24.com/storage/service_categories/41/villa-svgrepo-com.svg"
+        }
+      ]
+    }
+  ]
+}

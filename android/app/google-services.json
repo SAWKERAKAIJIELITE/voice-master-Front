@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919293231620",
+    "project_id": "mydoctor-45fe3",
+    "storage_bucket": "mydoctor-45fe3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919293231620:android:d6542890ee1dc313d8ab51",
+        "android_client_info": {
+          "package_name": "com.example.voice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT8lliaooZoVOP3WuHFMcPiX1yaALwwnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
